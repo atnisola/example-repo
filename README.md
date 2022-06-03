@@ -6,4 +6,4 @@ This is a sample repo, **hello world**
 - [] Folk me.
 - [] Push me.
 
-Happy Coding! :smiley:
+Happy Coding! :smiley: :smiley:
