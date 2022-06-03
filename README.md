@@ -1,7 +1,7 @@
 # Example Repository
 This is a sample repo, **hello world**
 
-- [] Read me?
+- [] Read me.
 - [] Save me.
 - [] Folk me.
 - [] Push me.
